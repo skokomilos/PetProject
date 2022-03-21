@@ -1,4 +1,7 @@
 package com.example.petproject.interfaces;
 
-public interface myFirstInterface git {
+public interface myFirstInterface {
+    fun hello(){
+
+    }
 }
