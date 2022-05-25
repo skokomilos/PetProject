@@ -13,6 +13,8 @@ import com.example.petproject.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    //add some fix here
+
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
