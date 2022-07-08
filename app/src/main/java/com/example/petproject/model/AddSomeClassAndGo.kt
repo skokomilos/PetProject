@@ -10,5 +10,6 @@ class AddSomeClassAndGo(val name: String, val age: Int) {
     //add comment 4
     val some_number = 4
     private fun hero(one: String, two: String){}
+    //add line change two
 }
 
