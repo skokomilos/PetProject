@@ -5,7 +5,4 @@ package com.example.petproject.first;
  */
 public class FirstClass {
 
-    //first comment
-    //second comment
-    //add third exttra comments
 }
