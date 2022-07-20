@@ -7,5 +7,4 @@ public class FirstClass {
 
     //first comment
     //second comment
-    //third comment
 }
