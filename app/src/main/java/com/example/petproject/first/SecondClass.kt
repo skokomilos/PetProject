@@ -7,5 +7,4 @@ package com.example.petproject.first
 class SecondClass {
 
     //dont revert
-    //revert
 }
